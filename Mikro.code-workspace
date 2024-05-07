@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Moderna"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mikro"
+	}
+}
