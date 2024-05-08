@@ -537,6 +537,15 @@ section {
   color: #16a589;
 
 }
+.titleh2{
+  margin-left: 95px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #1e4356;
+  text-align: center;
+}
 
 .services .description {
   font-size: 15px;
@@ -549,6 +558,14 @@ section {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     unicode-bidi: isolate;
+}
+.episode{
+  color: #1e4356;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 10px;
+  text-transform: uppercase;
+
 }
 
 .services .icon-box-pink .icon {
